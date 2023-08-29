@@ -13,6 +13,7 @@ Windows
 ## Website文件夹
 
 * Website是论文中搭建的网站平台，IDE使用vscode开发
+* 开发框架：前端vuejs、后端gin、数据库gorm
 * 开发语言：前端javascript、后端golang、检测python3、数据库mysql
 * python检测脚本依赖包：joblib、pandas、sklearn==1.2.1、eli5
 * 后端开发依赖见go.mod文件
